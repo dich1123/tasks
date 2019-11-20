@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: monospace;
+}
+.contet{
+    text-align: center;
+    font-family: monospace;
+    font-size: large;
+}
+table{
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+
+}
+th{
+    color: #2e6da4;
+    border-style: solid;
+    border-color: #0f0f0f;
+    width: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+td{
+    color: #a94442;
+    outline-style: solid;
+    outline-color: #0f0f0f;
+    text-align: center;
+    padding: 13px;
+    font-size: 15px;
+}
+
+.form{
+    text-align: center;
+    margin: 25px;
+}
